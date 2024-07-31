@@ -4,7 +4,7 @@
 		<lc:ProjectId>0870634e-2ce9-4f0a-969a-b5948d14e77f</lc:ProjectId>
 		<lc:Name>电路项目</lc:Name>
 		<lc:Zoom>0.8155430711610516</lc:Zoom>
-		<lc:LogicalCircuitId>4f9cc54d-7218-4633-9fd3-7a20d2020f30</lc:LogicalCircuitId>
+		<lc:LogicalCircuitId>74590baa-37af-455b-aad5-c3a55d08a877</lc:LogicalCircuitId>
 		<lc:CategoryTextNoteCollapsed>True</lc:CategoryTextNoteCollapsed>
 	</lc:Project>
 	<lc:LogicalCircuit>
@@ -111,8 +111,8 @@
 	</lc:LogicalCircuit>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>4f9cc54d-7218-4633-9fd3-7a20d2020f30</lc:LogicalCircuitId>
-		<lc:Name>Circuit</lc:Name>
-		<lc:Notation>Circuit</lc:Notation>
+		<lc:Name>Mux8Way16</lc:Name>
+		<lc:Notation>Mux8Way16</lc:Notation>
 	</lc:LogicalCircuit>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>e0cebaec-bdee-4762-a810-d0edbce7e6cc</lc:LogicalCircuitId>
@@ -552,6 +552,7 @@
 		<lc:PinId>a2541f17-8628-401d-b95e-9433cf2498c1</lc:PinId>
 		<lc:CircuitId>4f9cc54d-7218-4633-9fd3-7a20d2020f30</lc:CircuitId>
 		<lc:BitWidth>16</lc:BitWidth>
+		<lc:PinSide>Top</lc:PinSide>
 		<lc:Name>a</lc:Name>
 		<lc:JamNotation>a</lc:JamNotation>
 	</lc:Pin>
@@ -559,6 +560,7 @@
 		<lc:PinId>bb06c6a2-5687-46a8-83b2-d655473104b2</lc:PinId>
 		<lc:CircuitId>4f9cc54d-7218-4633-9fd3-7a20d2020f30</lc:CircuitId>
 		<lc:BitWidth>16</lc:BitWidth>
+		<lc:PinSide>Top</lc:PinSide>
 		<lc:Name>b</lc:Name>
 		<lc:JamNotation>b</lc:JamNotation>
 	</lc:Pin>
@@ -594,6 +596,7 @@
 		<lc:PinId>10ea5cee-a78c-4504-98f0-a8225e1999ee</lc:PinId>
 		<lc:CircuitId>4f9cc54d-7218-4633-9fd3-7a20d2020f30</lc:CircuitId>
 		<lc:BitWidth>16</lc:BitWidth>
+		<lc:PinSide>Bottom</lc:PinSide>
 		<lc:Name>g</lc:Name>
 		<lc:JamNotation>g</lc:JamNotation>
 	</lc:Pin>
@@ -601,6 +604,7 @@
 		<lc:PinId>f8935435-94dd-4a6f-89ca-39ee4a889e3f</lc:PinId>
 		<lc:CircuitId>4f9cc54d-7218-4633-9fd3-7a20d2020f30</lc:CircuitId>
 		<lc:BitWidth>16</lc:BitWidth>
+		<lc:PinSide>Bottom</lc:PinSide>
 		<lc:Name>h</lc:Name>
 		<lc:JamNotation>h</lc:JamNotation>
 	</lc:Pin>
@@ -608,6 +612,7 @@
 		<lc:PinId>16f23ad3-52b1-4ccb-a89a-93f01f1c1863</lc:PinId>
 		<lc:CircuitId>4f9cc54d-7218-4633-9fd3-7a20d2020f30</lc:CircuitId>
 		<lc:BitWidth>3</lc:BitWidth>
+		<lc:PinSide>Bottom</lc:PinSide>
 		<lc:Name>sel</lc:Name>
 		<lc:JamNotation>sel</lc:JamNotation>
 	</lc:Pin>
